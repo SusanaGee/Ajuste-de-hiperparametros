@@ -20,6 +20,8 @@ Durante el curso trabajamos con distintas estrategias para el ajuste de hiperpar
 
 ---
 
+👉 **¡Te invito a hacer clic en el branch `master` y comenzar esta nueva aventura!** 🌟
+
 ## **¿Qué te llevarás de este curso?**  🎯
 Comprenderás la importancia del ajuste de hiperparámetros como parte fundamental del ciclo de modelado.
 
